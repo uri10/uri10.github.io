@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["create", "develop", "act", "produce", "code", "graphic design"],
+      strings: ["'m Oriol Ramis.", "'m a creative engineer.", " develop projects.", " code ideas.", " produce media adventures."],
       typeSpeed: 60,
       loop: true,
     });
