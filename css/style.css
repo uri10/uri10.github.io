@@ -915,8 +915,14 @@ nav ul li a {
     font-size: 16px;
     color: #777;
     line-height: 28px;
-    margin-top: 8px;
+    padding-bottom: 10px;
+    margin-top: 10px;
 }
+
+.main-timeline h5 {
+  line-height: 30px;
+}
+
 .main-timeline .timeline:nth-child(2n),
 .main-timeline .timeline:nth-child(2n) .timeline-content{
     float: right;
